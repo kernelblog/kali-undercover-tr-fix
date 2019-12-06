@@ -3,7 +3,7 @@
 Kali Linux 2019.4 kali-undercover Mod Hatasının Düzeltmesidir.
 
 ## Kurulum
-`https://github.com/kernelblog/kali-undercover-tr-fix.git --depth=1`<br>
+`git clone https://github.com/kernelblog/kali-undercover-tr-fix.git --depth=1`<br>
 `cd kali-undercover-tr-fix`<br>
 `sh undercover-fix.sh`<br>
 
